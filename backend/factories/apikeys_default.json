@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "fullcontact_api",
+    "key": ""
+  },
+  {
+    "id": 2,
+    "name": "linkedin_user",
+    "key": ""
+  },
+  {
+    "id": 3,
+    "name": "linkedin_pass",
+    "key": ""
+  },
+  {
+    "id": 3,
+    "name": "instagram_user",
+    "key": ""
+  },
+  {
+    "id": 4,
+    "name": "instagram_pass",
+    "key": ""
+  },
+  {
+    "id": 5,
+    "name": "haveibeenpwned_key",
+    "key": ""
+  },
+  {
+    "id": 6,
+    "name": "emailrep_key",
+    "key": ""
+  },
+  {
+    "id": 7,
+    "name": "peopledatalabs_key",
+    "key": ""
+  },
+  {
+    "id": 8,
+    "name": "leaklookup_key",
+    "key": ""
+  },
+  {
+    "id": 9,
+    "name": "twitter_consumer_key",
+    "key": ""
+  },
+  {
+    "id": 10,
+    "name": "twitter_consumer_secret",
+    "key": ""
+  },
+  {
+    "id": 11,
+    "name": "twitter_access_token",
+    "key": ""
+  },
+  {
+    "id": 12,
+    "name": "twitter_access_token_secret",
+    "key": ""
+  },
+  {
+    "id": 13,
+    "name": "spotify_client_id",
+    "key": ""
+  },
+  {
+    "id": 14,
+    "name": "spotify_client_secret",
+    "key": ""
+  },
+  {
+    "id": 15,
+    "name": "twitch_client_id",
+    "key": ""
+  },
+  {
+    "id": 16,
+    "name": "twitch_client_secret",
+    "key": ""
+  }
+]
