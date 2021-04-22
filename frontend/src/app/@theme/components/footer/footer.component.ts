@@ -6,19 +6,19 @@ import { Component } from '@angular/core';
   template: `
     <span class="created-by" style="color: #05fcfc; font-family: Exo; font-size: 1.125rem; font-weight: 400;">I Know You - 2020</span>
     <div class="socials">
-      <a href="https://www.twitter.com/kennbroorg" target="_blank" class="ion ion-social-twitter"></a>
+      <a href="https://twitter.com/Rjkumar_kumawat" target="_blank" class="ion ion-social-twitter"></a>
     </div>
     <div class="socials">
-      <a href="https://www.instagram.com/kennbroorg" target="_blank" class="ion ion-social-instagram"></a>
+      <a href="https://www.instagram.com/rjkumar0205/" target="_blank" class="ion ion-social-instagram"></a>
     </div>
     <div class="socials">
-      <a href="https://www.vimeo.com/user85580359" target="_blank" class="ion ion-social-vimeo"></a>
+      <a href="https://github.com/Rajkumar-kumawat" target="_blank" class="ion ion-social-github"></a>
     </div>
     <div class="socials">
-      <a href="https://https://github.com/kennbroorg/iKy" target="_blank" class="ion ion-social-github"></a>
+      <a target="_blank" href="https://github.com/Rajkumar-kumawat"><i class="fab fa-gitlab"></i></a>
     </div>
     <div class="socials">
-      <a target="_blank" href="https://gitlab.com/kennbroorg/iKy"><i class="fab fa-gitlab"></i></a>
+      <a href="https://www.linkedin.com/in/rajkumar-kumawat-66072b199/" target="_blank" class="ion ion-social-linkedin"></a>
     </div>
   `,
 })
