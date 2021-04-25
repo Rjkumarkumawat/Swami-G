@@ -45,9 +45,9 @@ Website References
 <h1 align="center">Swami-G </h1>
 
 <h1 id="description">Description</h1>
-Project iKy is a tool that collects information from an email and shows results in a nice visual interface.
+Project Swami-G is a tool that collects information from an email and shows results in a nice visual interface.
+just ask ...... !!!!!!
 
-Visit the Gitlab Page of the [Project](https://kennbroorg.gitlab.io/ikyweb/)
 
 <div align="center">
     <a href="https://vimeo.com/434501702"><img src="https://kennbroorg.gitlab.io/ikyweb/assets/img/Giba.gif"></a>
@@ -87,37 +87,10 @@ Visit the Gitlab Page of the [Project](https://kennbroorg.gitlab.io/ikyweb/)
 <h1 id="installation">Installation</h1>
 
 <div align="left" style="margin-bottom: 10px;">
-    <h2><img alt="important" height="30" src="https://kennbroorg.gitlab.io/ikyweb/assets/img/important.png"> Easy installation (Python only)</h2>
+    <h2><img alt="important" height="30" src="https://kennbroorg.gitlab.io/ikyweb/assets/img/important.png"> Installation </h2>
 </div>
 
-You must install Redis
-
-```shell
-wget http://download.redis.io/redis-stable.tar.gz
-tar xvzf redis-stable.tar.gz
-cd redis-stable
-make
-sudo make install
-```
-
-Go to our [website][website]. Download the ZIP file and unzip it.
-```
-unzip iKy.zip
-cd iKy-pack
-pip install -r requirements.txt
-cd backend
-python app.py -e prod
-```
-
-And, finally, [browse](#browse) it.
-
-## Full installation (DEV)
-
-### Clone repository
-
-```shell
-git clone https://gitlab.com/kennbroorg/iKy.git
-```
+## Full installation 
 
 ### Install Backend
 
@@ -130,7 +103,15 @@ wget http://download.redis.io/redis-stable.tar.gz
 tar xvzf redis-stable.tar.gz
 cd redis-stable
 make
+make test
 sudo make install
+redis-server
+```
+
+### open another terminal and Clone repository !!
+
+```shell
+https://github.com/Rajkumar-kumawat/Swami-G.git
 ```
 
 #### Python stuff and Celery
@@ -138,14 +119,19 @@ sudo make install
 You must install the libraries inside requirements.txt
 
 ```shell
+cd Swami-G
 python3 -m pip install -r requirements.txt
 ```
 
 ### Install Frontend
 
 #### Node
-
-First of all, install [nodejs](https://nodejs.org/en/).
+```
+sudo apt install nodejs
+OR
+sudo apt install nodejs npm
+```
+ OR First of all, install [nodejs](https://nodejs.org/en/).
 
 #### Dependencies
 
@@ -154,6 +140,7 @@ Inside the directory **frontend** install the dependencies
 ```shell
 cd frontend
 npm install
+npm start
 ```
 
 ## Wake up iKy Tool
