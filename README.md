@@ -16,16 +16,12 @@
 </div>
 -->
 
-<div align="center">
-    <a href="https://github.com/Rajkumar-kumawat/Swami-G/blob/main/README.md">
 
-    </a>
-</div>
 
 ---
 
 <div align="center">
-    <img alt="Logo" src="https://kennbroorg.gitlab.io/ikyweb/assets/img/Logo-Circular.png">
+    <img alt="Logo" src="https://i.pinimg.com/originals/69/25/dd/6925ddab4707f7867690983b3a562740.png">
 </div>
 
 ---
