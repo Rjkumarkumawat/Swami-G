@@ -1,6 +1,5 @@
 <div align="center" style="margin-bottom: 10px;">
-    <a href="https://twitter.com/intent/follow?screen_name=kennbroorg">
-	<img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/kennbroorg.svg?label=follow%20&style=for-the-badge&logo=twitter&labelColor=abcdef&color=1da1f2">
+    <a href="https://twitter.com/Rjkumar_kumawat">
     </a>
 </div>
 
