@@ -1,7 +1,4 @@
-<div align="center" style="margin-bottom: 10px;">
-    <a href="https://twitter.com/Rjkumar_kumawat">
-    </a>
-</div>
+
 
 <div align="center" style="margin-bottom: 10px;">
     <img alt="Redis" src="https://img.shields.io/badge/storage-redis-red.svg?style=for-the-badge">
@@ -20,8 +17,8 @@
 -->
 
 <div align="center">
-    <a href="https://gitlab.com/kennbroorg/iKy/blob/iKy/README.es.md">
-	<img alt="README Espanol" src="https://img.shields.io/badge/README-Espa%C3%B1ol-orange.svg?style=for-the-badge">
+    <a href="https://github.com/Rajkumar-kumawat/Swami-G/blob/main/README.md">
+	<img alt="README " src="https://img.shields.io/badge/README-Espa%C3%B1ol-orange.svg?style=for-the-badge">
     </a>
 </div>
 
