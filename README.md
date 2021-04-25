@@ -37,12 +37,12 @@
 <!--
 Website References
 -->
-[website]:https://kennbroorg.gitlab.io/ikyweb/
-[issues]:https://gitlab.com/kennbroorg/iKy/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=
+[website]:https://cyberkillerhere.blogspot.com/
+[issues]:https://github.com/Rajkumar-kumawat/Swami-G/issues
 [readmees]: README.es.md
 [readmeen]: README.md
 
-<h1 align="center">iKy</h1>
+<h1 align="center">Swami-G </h1>
 
 <h1 id="description">Description</h1>
 Project iKy is a tool that collects information from an email and shows results in a nice visual interface.
