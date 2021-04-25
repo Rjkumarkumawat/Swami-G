@@ -18,7 +18,7 @@
 
 <div align="center">
     <a href="https://github.com/Rajkumar-kumawat/Swami-G/blob/main/README.md">
-	<img alt="README " src="https://img.shields.io/badge/README-Espa%C3%B1ol-orange.svg?style=for-the-badge">
+
     </a>
 </div>
 
